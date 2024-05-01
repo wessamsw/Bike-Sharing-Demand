@@ -42,13 +42,13 @@
 
 TODO: Replace the image below with your own.
 
-![model_train_score.png](img/model_train_score.png)
+![model_train_score.png](https://github.com/wessamsw/Bike-Sharing-Demand/blob/main/model_train_score.png?raw=true)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 TODO: Replace the image below with your own.
 
-![model_test_score.png](img/model_test_score.png)
+![model_test_score.png](https://github.com/wessamsw/Bike-Sharing-Demand/blob/main/model_test_score.png?raw=true)
 
 ## Summary
 - The project aimed to predict bike sharing demand using AutoGluon solution.
