@@ -40,13 +40,9 @@
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
-TODO: Replace the image below with your own.
-
 ![model_train_score.png](https://github.com/wessamsw/Bike-Sharing-Demand/blob/main/model_train_score.png?raw=true)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
-
-TODO: Replace the image below with your own.
 
 ![model_test_score.png](https://github.com/wessamsw/Bike-Sharing-Demand/blob/main/model_test_score.png?raw=true)
 
